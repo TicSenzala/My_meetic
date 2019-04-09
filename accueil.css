@@ -1,0 +1,151 @@
+body
+{
+	background: url('Image/couplemariage.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.contain--recherche
+{
+	text-align: center;
+	position: relative;
+	top: 200px;
+}
+
+.title
+{
+	color: pink;
+	font-size: 100px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.valid
+{
+	text-transform: uppercase;
+	font-weight: bold;
+	border-radius: 20px;
+	padding: 10px;	
+}
+
+.form--filtre
+{
+	position: relative;
+	top: 250px;	
+	padding: 30px;
+	border-radius: 10px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.form--filtre label
+{
+	color: pink;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.moove--input
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.setting img
+{
+	width: 60px;
+}
+
+
+nav ul li 
+{
+	list-style: none;
+	display: inline;
+}
+
+nav ul li a
+{
+	font-weight: bold;
+	color: white;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+
+nav ul li a:hover
+{
+	color: pink;
+	text-decoration: none;
+}
+
+.contain--infos--recherche
+{
+	background: rgba(255,255,255, 0.8);
+	border-radius: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 1%;
+}
+
+.div--perso
+{
+	display: flex;
+	position: relative;
+	top: 100px;	
+	border-radius: 10px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.englob--pict--user
+{
+	background-color: rgba(0,0,0, 0.5);
+	border-radius: 3px;
+}
+
+.arrow
+{
+	margin-right: 34%;
+	position: relative;
+	bottom: 200px;
+	padding: 5px;
+	box-shadow: 0 0 12px black;
+	border-radius: 10px;
+	transition: 0.2s;
+}
+
+.arrow:hover
+{
+	box-shadow: 0 0 12px black;
+	background: rgba(255,255,255, 0.2);
+}
+
+.arrow:active
+{
+	box-shadow: none;
+
+}
+
+.arrow--left
+{
+	margin-left: 34.4%;
+	position: relative;
+	bottom: 200px;
+	padding: 5px;
+	box-shadow: 0 0 12px black;
+	border-radius: 10px;
+	transition: 0.2s;
+}
+
+.arrow--left:hover
+{
+	box-shadow: 0 0 12px black;
+	background: rgba(255,255,255, 0.2);
+}
+
+.arrow--left:active
+{
+	box-shadow: none;
+
+}
+

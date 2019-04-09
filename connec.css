@@ -1,0 +1,38 @@
+body
+{
+	background-image: url('Image/photoconnexion.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.img--logo img
+{
+	width: 220px;
+}
+
+.img--logo
+{
+	text-align: center;
+	margin-top: 5%;
+}
+
+.container--form
+{
+	width: 30%;
+	background-color: rgba(250,250,250, 0.8);
+	padding: 30px;
+	margin: 0 auto;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.input--connex
+{
+	text-align: center;
+}
+
+h1
+{
+	color: #F086EC;
+}

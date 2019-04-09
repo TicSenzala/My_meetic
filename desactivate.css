@@ -1,0 +1,65 @@
+body
+{
+	background: url('Image/table.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.head--sett
+{
+	color: white;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+.contain--radio
+{
+	background-color: rgba(255,255,255, 0.5);
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.radio
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.label--autre
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.titre--check
+{
+	font-weight: bold;
+}
+
+.butt-des
+{
+	border-radius: 30px;
+	padding: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+	position: relative;
+	top: 320px;
+}
+
+.contain-butt-des
+{
+	text-align: center;
+}
+
+.contain-butt-des h2
+{
+	font-size: 100px;
+	color: pink;
+	border-radius: 20px;
+	padding: 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	position: relative;
+	top: 300px;
+}

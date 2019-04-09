@@ -1,0 +1,42 @@
+body
+{
+	background-image: url('Image/fondrose.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.contain--messagerie
+{
+	position: relative;
+	top: 160px;
+}
+
+.between--div
+{
+	background-color: white;
+}
+
+.nav--mess
+{
+	border-radius: 5px;
+}
+
+.container--input
+{
+	position: relative;
+	top: 500px;
+	border-radius: 7px;
+}
+
+.message--send
+{
+	background-color: rgba(255, 255, 255, 1);
+	border-radius: 10px;
+	transition: 0.3s;
+}
+
+.message--send:hover
+{
+	box-shadow: 0 0 12px black;
+}
